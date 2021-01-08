@@ -6,7 +6,11 @@ Ready-made Canvas LMS templates
 
 ### Content Cards
 
+<img src="https://raw.githubusercontent.com/blindingstars/CanvasLMSDesigns/master/screenshots/homepage-content-cards.png" alt="Homepage design using blocks of content" style="width: 100%;" />
+
 Features responsive design that reflows on smaller screens
+
+[View Raw Code](https://raw.githubusercontent.com/blindingstars/CanvasLMSDesigns/master/homepage/content-cards.html)
 
 
 ## How to Use
