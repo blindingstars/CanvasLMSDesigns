@@ -1,34 +1,23 @@
-# CanvasLMSDesigns
-Ready-Made Canvas LMS Templates, Colorful Design Templates for your Canvas LMS Instance 
+# Canvas LMS Designs
 
-### Demo
+Ready-made Canvas LMS templates
 
-  - [Design 1](https://k12.edutech.lk/courses/3)
+## Homepage Themes
 
-### Features
+### Content Cards
 
-  - Zero Dependancy - (No need to include any and css or js files into your canvas instance)
-  - Compitable with Canvas LMS editor
-
-### How to use
-  - Go to this file - Design-1/index.html - [Click here ](https://raw.githubusercontent.com/EdutechAZ/CanvasLMSDesigns/master/Design-1/index.html)
-  - Copy  index.html HTML codes 
-  - Paste into the Canvas LMS editor
-
-### Idea
-
-My Main idea is to build a Canvas LMS Online editor which helps Canvas Admin and Designers to design couse pages interactive manner.
+Features responsive design that reflows on smaller screens
 
 
-### Todos
+## How to Use
 
- - Design more ready made designs
- - Canvas Online Editor
+- View the raw code version of any page template; copy the HTML code to a text editor.
 
-License
-----
+- Add your own content and replace the placeholder text. Hint: search for the word "REPLACE" to easily find locations.
 
-MIT
+- Copy the edited HTML code and paste into your Canvas page (in code mode, not rich-text mode).
 
-**Free Software**
+## Credits
+
+Forked from [EdutechAZ/CanvasLMSDesigns](https://github.com/EdutechAZ/CanvasLMSDesigns) and released under the MIT license
 
