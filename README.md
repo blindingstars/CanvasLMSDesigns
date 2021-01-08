@@ -12,6 +12,13 @@ Features responsive design that reflows on smaller screens
 
 [View Raw Code](https://raw.githubusercontent.com/blindingstars/CanvasLMSDesigns/master/homepage/content-cards.html)
 
+### Striped Table
+
+This table-based design is not responsive and is optimized for laptops/desktops
+
+<img src="https://raw.githubusercontent.com/blindingstars/CanvasLMSDesigns/master/screenshots/homepage-striped-table.png" alt="Homepage design using a large table with stripes of content" style="width: 100%;" />
+
+[View Raw Code](https://raw.githubusercontent.com/blindingstars/CanvasLMSDesigns/master/homepage/striped-table.html)
 
 ## How to Use
 
